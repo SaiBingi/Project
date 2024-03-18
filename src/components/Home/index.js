@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Chart from "../Chart/index.js";
-import Example from "../PieChart/index.js";
+import Chart from "../Chart";
+import Example from "../PieChart";
 import Cookies from "js-cookie";
 import { TailSpin } from "react-loader-spinner";
 import { useNavigate } from "react-router-dom";
